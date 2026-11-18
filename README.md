@@ -65,6 +65,8 @@ Valid categories: Food, Transport, Utilities, Entertainment, Other
 
 ## Sample terminal session
 
+![Analytics Report terminal screenshot](docs/terminal-demo.png)
+
 Real output from a run (add two expenses, view them, set a Food budget,
 print the analytics report, exit):
 
