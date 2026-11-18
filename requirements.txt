@@ -1,0 +1,3 @@
+# No third-party dependencies.
+# This project uses only the Python standard library
+# (datetime, statistics, sys) and runs on Python 3.11+.
